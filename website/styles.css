@@ -153,12 +153,12 @@ li {
     color: #ffffff;
 }
 
-/* .list li::before {
+.list li::before {
     content: "•";
     position: absolute;
     left: 0;
     top: 0;
-} */
+}
 
 a {
     color: #5895f0;
